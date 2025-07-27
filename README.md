@@ -1,0 +1,1 @@
+Goal was to make it as a machine management tool, to keep track of when one machine goes bad, and track depreciation rate to predict failure of those machines, and schedule an order so that the next one arrives at an appropriate time, so that work doesnt halt
